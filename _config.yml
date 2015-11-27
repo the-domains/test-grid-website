@@ -1,6 +1,6 @@
 name: Test Grid Website
 favicon: null
-layout_spectrum: 0.6976802831050009
+layout_spectrum: 0.5393
 typography_spectrum: 0.2810920192860067
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.8101921880152076
+  brandStrength: 0.75
   lightness: 0.5505861015990376
   saturation: 0.2722934444900602
   rhythmicContrast: 0.7484384637791663
